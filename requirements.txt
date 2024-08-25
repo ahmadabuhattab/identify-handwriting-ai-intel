@@ -1,0 +1,7 @@
+tensorflow
+intel-tensorflow
+matplotlib
+numpy
+flask
+kerastuner
+tensorflow-model-optimization
